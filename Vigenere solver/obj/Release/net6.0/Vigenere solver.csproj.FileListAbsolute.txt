@@ -1,0 +1,15 @@
+C:\Users\olive\Documents\GitHub\Cipher-Club\Vignere-solver\Vigenere solver\bin\Release\net6.0\Vigenere solver.exe
+C:\Users\olive\Documents\GitHub\Cipher-Club\Vignere-solver\Vigenere solver\bin\Release\net6.0\Vigenere solver.deps.json
+C:\Users\olive\Documents\GitHub\Cipher-Club\Vignere-solver\Vigenere solver\bin\Release\net6.0\Vigenere solver.runtimeconfig.json
+C:\Users\olive\Documents\GitHub\Cipher-Club\Vignere-solver\Vigenere solver\bin\Release\net6.0\Vigenere solver.dll
+C:\Users\olive\Documents\GitHub\Cipher-Club\Vignere-solver\Vigenere solver\bin\Release\net6.0\Vigenere solver.pdb
+C:\Users\olive\Documents\GitHub\Cipher-Club\Vignere-solver\Vigenere solver\obj\Release\net6.0\Vigenere solver.csproj.AssemblyReference.cache
+C:\Users\olive\Documents\GitHub\Cipher-Club\Vignere-solver\Vigenere solver\obj\Release\net6.0\Vigenere solver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\Documents\GitHub\Cipher-Club\Vignere-solver\Vigenere solver\obj\Release\net6.0\Vigenere solver.AssemblyInfoInputs.cache
+C:\Users\olive\Documents\GitHub\Cipher-Club\Vignere-solver\Vigenere solver\obj\Release\net6.0\Vigenere solver.AssemblyInfo.cs
+C:\Users\olive\Documents\GitHub\Cipher-Club\Vignere-solver\Vigenere solver\obj\Release\net6.0\Vigenere solver.csproj.CoreCompileInputs.cache
+C:\Users\olive\Documents\GitHub\Cipher-Club\Vignere-solver\Vigenere solver\obj\Release\net6.0\Vigenere solver.dll
+C:\Users\olive\Documents\GitHub\Cipher-Club\Vignere-solver\Vigenere solver\obj\Release\net6.0\refint\Vigenere solver.dll
+C:\Users\olive\Documents\GitHub\Cipher-Club\Vignere-solver\Vigenere solver\obj\Release\net6.0\Vigenere solver.pdb
+C:\Users\olive\Documents\GitHub\Cipher-Club\Vignere-solver\Vigenere solver\obj\Release\net6.0\Vigenere solver.genruntimeconfig.cache
+C:\Users\olive\Documents\GitHub\Cipher-Club\Vignere-solver\Vigenere solver\obj\Release\net6.0\ref\Vigenere solver.dll

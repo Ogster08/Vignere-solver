@@ -1,0 +1,5 @@
+C:\Users\olive\Documents\GitHub\Cipher-Club\Vignere-solver\Vigenere solver\bin\Release\net6.0\publish\Vigenere solver.exe
+C:\Users\olive\Documents\GitHub\Cipher-Club\Vignere-solver\Vigenere solver\bin\Release\net6.0\publish\Vigenere solver.dll
+C:\Users\olive\Documents\GitHub\Cipher-Club\Vignere-solver\Vigenere solver\bin\Release\net6.0\publish\Vigenere solver.deps.json
+C:\Users\olive\Documents\GitHub\Cipher-Club\Vignere-solver\Vigenere solver\bin\Release\net6.0\publish\Vigenere solver.runtimeconfig.json
+C:\Users\olive\Documents\GitHub\Cipher-Club\Vignere-solver\Vigenere solver\bin\Release\net6.0\publish\Vigenere solver.pdb
