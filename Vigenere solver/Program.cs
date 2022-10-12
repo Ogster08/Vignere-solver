@@ -56,7 +56,7 @@
                     keyScores[n - 2] = scores.Sum() / scores.Length;
                 }
 
-                List<float> possibleKeys = new List<float>();
+                List<float> possibleKeys = new();
                 foreach (var key in keyScores) { if (key >= 0.055) { possibleKeys.Add(key + Array.IndexOf(keyScores, key) + 2); } }
                 int keyLength = Array.IndexOf(keyScores, keyScores.Max()) + 2;
 
@@ -85,7 +85,7 @@
                 //looping through the text array to solve each caesar
                 for (int i = 0; i < keyLength; i++)
                 {
-                    CeaserSolver ceaserSolver = new CeaserSolver(solveArray[i]);
+                    CeaserSolver ceaserSolver = new(solveArray[i]);
                     ceaserSolver.Solve();
 
                     //add possible keys and the decryprtion to the relavent arrays
