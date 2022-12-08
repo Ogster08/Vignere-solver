@@ -77,7 +77,6 @@
                 }
 
                 //////////solve cipthers//////////
-                Console.WriteLine(keyLength);
                 //create arrays for the possible keys and  decryption
                 int[][] keysPos = new int[keyLength][]; //each part of array will contain 2 possible keys for that part of the cipher
                 string[] decryption = new string[keyLength];
@@ -102,7 +101,6 @@
                     int[] permutation = new int[s.Length];
                     for (int x = 0; x < s.Length; x++)
                     {
-                        Console.WriteLine($"{permutation.Length}, {keysPos.Length}, {keysPos[0].Length}, {x}");
                         int index = int.Parse(s[x].ToString());
                         permutation[x] = keysPos[x][index];
                     }
